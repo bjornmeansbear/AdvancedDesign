@@ -60,6 +60,12 @@ This Project will run from 10/07–10/28 (the four weeks of October)
 - Any of the criticality things work here... 
 - the everyday experience based design idea fits here well too
 
+Create a dictionary to aid you in your potential degree project research and development. Research and define terms, ideas, and visual reference points associated with your questions and ideas. This “dictionary” is meant to help fill in conceptual gaps, refine direction, and enhance and inform so you can move forward with confidence.
+
+Knowledge domain?
+
+How might we questions?
+
 ### 4. Process Book.
 - Final project; the last 4 weeks or so to refine it -- but should be introduced at the beginning; its the documentation for all the projects? Must contain reflection on the term as well as all the different questions, outcomes, whatever created from the projects and workshops -- try to frame a process; a practice; a praxis.
 
@@ -85,9 +91,9 @@ This Project will run from 10/07–10/28 (the four weeks of October)
 - Free/Libre/Open Source/Public Domain?
 - Basic Semiotics refresher
 
-## What else??
+## Anything else??
 
-## Good Questions:
+## Other Good Questions:
 - What do you think about this? what do you think you are supposed to think about this? 
 - how do you feel about this, how do you think you are supposed to feel about this?
 - What is the weirdest thing you would advocate for?
