@@ -1,7 +1,7 @@
 # AdvancedDesign
 
 ## Projects:
-1. Coutnerfeit/Bootleg/Appropriation
+1. Counterfeit/Bootleg/Appropriation
 2. Remix
 3. Subjective Dictionary
 4. Process Book
