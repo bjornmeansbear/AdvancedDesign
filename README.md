@@ -35,7 +35,7 @@ to take without permission or consent; seize; expropriate: He appropriated the t
 - Read: Excerpt from As Seen: Exhibition that Made Architecture and Design History
 - Read: Jonathan Lethem, Ecstasy of Influence
 - Read: Every Culture Appropriates - The Atlantic.pdf
-- 
+
 ### 2. Remix.
 This Project will run from 10/07–10/28 (the four weeks of October)
 
@@ -67,7 +67,33 @@ Knowledge domain?
 How might we questions?
 
 ### 4. Process Book.
-- Final project; the last 4 weeks or so to refine it -- but should be introduced at the beginning; its the documentation for all the projects? Must contain reflection on the term as well as all the different questions, outcomes, whatever created from the projects and workshops -- try to frame a process; a practice; a praxis.
+the last 2 weeks are available for finalizing and producing
+This is introduced the first day of the term
+It is the documentation for all the projects
+Must contain reflection on the term as well as all the different questions, outcomes, whatever created from the projects and workshops
+Try to frame your current process; a practice; a praxis.
+Show research that went into a project. 
+Share the “backstory” of your ideas/directions, etc.
+Design isn’t magic: show us what really goes on to make something
+
+±±±±±±±±±±±±±±±±±±±±
+
+Specs:
+8.5w x11h
+Black and White (if you feel you need color, that’s fine, but we wanted to make it fast and cheap and easy to produce final physical copies to deliver to us)
+Show more than final outputs. How did you start? how did you traverse the starting to the ending?
+Written explanation. Try walking us through your working and thinking processes where you can.
+Must contain documentation of all work made in AD1 over the fall term.
+
+±±±±±±±±±±±±±±±±±±±±
+
+The process book is a chronicle of your work flow and completed work during the course of the semester. It is a vehicle to gather research, scraps of notes, ideas, mock-ups, failures, successes, writing, reading, working files and final outcome of assignments and projects. It provides a narrative of the process in which you work — whether you make conscious, deliberate design decisions or more reactive “fooling around” or accidental or experimental design decisions. Both have value! We believe you will find the “process” of creating the process book worthwhile.
+
+Your process book is a reflection of you — and more importantly your work and your thinking. A process book is both a scrapbook and a journal and design piece of its own. Process book’s should detail the process by which you developed your designs and your thinking this term. The formatting and the design style you create should feel authentic to your work and thoughts over the term. This is a visual and conceptual design project. The form should fit the content and contexts. If you have physical outputs, you will need to digitize the material to include.
+
+Begin the process book immediately with the first projects, and try to keep up dating the process book as you complete assignments. You may add content from other courses, as well as figure out connections or interlink content from senior seminar as you go. You should also find ways to include the output and ideas from our in class charettes and prompts into the process book too.
+
+We can give you feedback on your process book as it evolves if you desire. Create this process book in whatever tool you desire as long as you can make printable PDF pages at the end for getting it physically made. Make sure you run spell check on the content of your book and that you proofread it. At the END of the SEMESTER your will also be required to submit a physical and PDF process book to us.
 
 ## Workshops/Charettes/In Class Prompts:
 1. Intro + Design Principles Installation
@@ -90,7 +116,8 @@ How might we questions?
 ## Lectures?
 - Free/Libre/Open Source/Public Domain?
 - Basic Semiotics refresher
-
+- Finding Formal Fit: Form «» Content «» Context?
+- 
 ## Anything else??
 
 ## Other Good Questions:
